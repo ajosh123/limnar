@@ -1,0 +1,14 @@
+h1{
+    margin-top: -35%;
+    margin-left: 5%;
+}
+.d-block{
+    height: 500px;
+}
+.but{
+    padding: 2%;
+    font-size: 20px;
+    border-radius: 35%;
+    color: white;
+    background-color: rgb(138, 11, 127);
+}
